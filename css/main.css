@@ -1563,7 +1563,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #28ffff;
+  background: #9aff38;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2552,15 +2552,6 @@ hr {
 }
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
-}
-#posts .post-body a {
-  color: #0e83cd;
-  border-bottom: none;
-  text-decoration: none;
-}
-#posts .post-body a:hover {
-  color: #1094e8;
-  text-decoration: underline;
 }
 .btn {
   padding: 0 10px;
