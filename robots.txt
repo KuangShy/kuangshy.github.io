@@ -1,9 +1,9 @@
 # robots.txt
 User-agent: *
 Disallow:
-Disallow: /lib
-Disallow: /js
-Disallow: /css
-Disallow: /image
+Disallow: /lib/
+Disallow: /js/
+Disallow: /css/
+Disallow: /image/
 Sitemap: http://blog.kuangshy.cn/sitemap.xml
 Sitemap: http://blog.kuangshy.cn/baidusitemap.xml
